@@ -8,7 +8,7 @@ The up/down arrow keys raise or lower the pitch for the currently active circles
 
 ## What the instrument does:
 It generates a separate Lorentz attractor based on the pitch of each circle, 
- which then shapes the sound signal and its shape  <br />
+ which then shapes the sound signal <br />
 It computes an entropy based variation index, which makes the sound ever changing  <br />
 When no key is pressed for more than a second, it generates a statistical distribution  <br />
  from the pattern you follow when playing the instrument, which in turn, has the 
